@@ -1,10 +1,10 @@
 # Exercise-01a-Install-Software
 My name is:
 
-[Your Name]
+[Blake Swing]
 
 My github username is:
 
-[Your Username]
+[Sphinksz]
 
 BL-MSCH-C220
